@@ -1,0 +1,6 @@
+{
+
+  "sample_submission": "./data/sample_submission.csv",
+  "test_images_path": "./data/test/**/*png",
+  "det_model_path": "./logs256/coco/efficientdet-d0_7_1500.pth"
+}

@@ -1,0 +1,21 @@
+{
+  "RESIZE_SIZE": 416,
+  "bbox_dict_path": "../det_models/train_add_effdet0.json",
+
+  "csv_path": "./data/train_fold_updata.csv",
+  "image_path": "./data/train_stack_5_slice/",
+  "mask_path": "./data/masks/",
+
+  "train_bs": 24,
+  "lr_init": 3e-4,
+  "total_epoch": 35,
+  "num_workers": 16,
+
+  "unet_type": "timm",
+  "encoder_name": "tf_efficientnetv2_l_in21k",
+  "pretrained": "True",
+  "pretrained_model_path": "./models_snap/cls_efv2l_320/models_swa_%s.pth.tar",
+  "snapshot_path": "./models_snap/seg_efv2l_v1_416",
+
+  "swa_model": "seg"
+}

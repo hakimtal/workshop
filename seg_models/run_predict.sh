@@ -1,0 +1,1 @@
+python predict.py ./configs/test_configs.json
