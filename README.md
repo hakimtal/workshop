@@ -1,5 +1,9 @@
-## UW-Madison GI Tract Image Segmentation
-## 3rd Solution
+## UW-Madison-GI-Tract-Image-Segmentation-3rd-Place-Solution
+Competition Leaderboard: https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/leaderboard
+### Solution Summary
+![Models Summary](pics\ModelsSumary.png)
+### Models Architecture
+![Models Summary](pics\Architecture.png)
 
 ### Data Prepare
 (1) Download the dataset to the seg_models/data  

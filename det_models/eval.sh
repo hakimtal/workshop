@@ -1,0 +1,1 @@
+python3 coco_eval.py -p coco -c 0 -w /home/mist/det_v0/logs2/coco/efficientdet-d0_7_1500.pth

@@ -1,0 +1,1 @@
+python normal_uw_images.py /root/autodl-tmp/train/ ./datasets/images/

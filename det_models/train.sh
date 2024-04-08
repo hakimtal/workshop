@@ -1,0 +1,1 @@
+python3 train.py -c 0 -p coco -w pretrain_model/efficientdet-d0_classes_2.pth --batch_size 16 --lr 1e-4
